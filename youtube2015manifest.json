@@ -1,5 +1,5 @@
 {
-    "name": "",
+    "name": "                                      ",
     "short_name": "YouTube",
     "icons": [
         {
@@ -17,5 +17,5 @@
     "background_color": "#f1f1f1",
     "display": "standalone",
     "description": "Check the original project out at ytm15.github.io/app",
-    "start_url": "https://thom283.github.io/OldGApps/yt2015.html"
+    "start_url": "https://ytm15.github.io/app/"
 }
